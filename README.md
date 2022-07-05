@@ -14,4 +14,4 @@ And more...
 
 ## Contact me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@CristianVarela-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/jeremias.oyhamburo/)
+[![Instagram](https://img.shields.io/badge/Instagram-@jeremias.Oyhamburo-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/jeremias.oyhamburo/)
