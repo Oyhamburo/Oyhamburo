@@ -2,7 +2,7 @@
 
 ### FrontEnd developer
 
-![GitHub Followers](https://img.shields.io/github/followers/VarelaCristianFacundo?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/oyhamburo?style=social)
 
 ## Skills:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -14,4 +14,4 @@ And more...
 
 ## Contact me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@CristianVarela-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/facundovare/)
+[![Instagram](https://img.shields.io/badge/Instagram-@CristianVarela-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/jeremias.oyhamburo/)
